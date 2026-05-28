@@ -1,0 +1,12 @@
+1. boots.exe
+
+Copyright (c) 2024, Kota UCHIDA
+
+See LICENSE_boots.txt
+
+2. PocoFoundation.dll
+
+Copyright (c) 2023, Applied Informatics Software Engineering GmbH.
+and Contributors.
+
+See LICENSE_Poco.txt

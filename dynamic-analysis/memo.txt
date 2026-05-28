@@ -1,9 +1,0 @@
-バックエンド
-npx appmap-node npm start
-フロントエンド
-npx appmap-node npm run dev
-
-変更なしの場合はデータを送らないため、GETリクエストが送信されて返り値がない（もしくは304）場合は、データを送る必要がなかった
-ファイル配布の場合も、GETリクエストが送信されて返り値がない
-
-./mvnw spring-boot:run
